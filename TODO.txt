@@ -1,0 +1,20 @@
+STORAGE BOXX TO DO / WISH LIST
+==============================
+
+* Check Item page update, add more info.
+  * Suppliers > Purchase
+  * Projected In/Out
+* Items list update.
+  * Remove "suppliers" from dropdown options
+  * Rename "movement" to "check" (replace suppliers with check)
+* Links
+  * Suppliers > PO
+  * Customers > DO
+* Auto-create PO for all items low on stock.
+* Home page widgets.
+* Directly email PO/DO.
+* More reports - delivery, purchases, charts, projections.
+* Print QR/NFC after import items.
+* Mass print QR code for items.
+* Customer "address book"? Different branches/departments - For DO.
+* Partial delivery/receive?
